@@ -1,4 +1,6 @@
 {
+    "name": "test/test",
+    "description": "test",
     "require": {
         "illuminate/config": "^8.0",
         "illuminate/events": "^8.0",
